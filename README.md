@@ -1,1 +1,1 @@
-# -denebola
+# denebola
